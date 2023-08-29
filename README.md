@@ -2,7 +2,7 @@ This readme will provide some detail on who I am and instruction on how to conta
 
 ## Who am I
 
-I am Ovi Liber, a technologist working in digital/human rights. I run a activist group called SystemError and work for various NGO's doing security research. 
+I am Ovi, a technologist working in digital/human rights. I run a activist group called SystemError and work for various NGO's doing security research. 
 You can find my website and social media details here:
 - https://0x0v1.com
 - Twitter - @0x0v1
